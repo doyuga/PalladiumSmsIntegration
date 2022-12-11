@@ -1,0 +1,5 @@
+C:\Work Softs\PalladiumSmsService\PalladiumSmsService\bin\Release\net6.0\publish\win-x64\Publish\appsettings.Development.json
+C:\Work Softs\PalladiumSmsService\PalladiumSmsService\bin\Release\net6.0\publish\win-x64\Publish\appsettings.json
+C:\Work Softs\PalladiumSmsService\PalladiumSmsService\bin\Release\net6.0\publish\win-x64\Publish\PalladiumSmsService.pdb
+C:\Work Softs\PalladiumSmsService\PalladiumSmsService\bin\Release\net6.0\publish\win-x64\Publish\sni.dll
+C:\Work Softs\PalladiumSmsService\PalladiumSmsService\bin\Release\net6.0\publish\win-x64\Publish\PalladiumSmsService.exe
