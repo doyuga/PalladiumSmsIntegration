@@ -1,0 +1,23 @@
+2022-11-23 22:13:16,634  INFO PalladiumSmsService.PalSmsService.MoveNext [73] - MESSAGE: Application Started at 11/23/2022 19:13:16
+ 2022-11-23 22:13:55,884  INFO Microsoft.Hosting.Lifetime.OnApplicationStarted [0] - MESSAGE: Application started. Press Ctrl+C to shut down.
+ 2022-11-23 22:13:55,888  INFO Microsoft.Hosting.Lifetime.OnApplicationStarted [0] - MESSAGE: Hosting environment: Development
+ 2022-11-23 22:13:55,891  INFO Microsoft.Hosting.Lifetime.OnApplicationStarted [0] - MESSAGE: Content root path: C:\Mustek\PalladiumSmsService\PalladiumSmsService
+ 2022-11-23 22:13:56,507  INFO PalladiumSmsService.PalSmsService.MoveNext [97] - MESSAGE: An error occurred while writing to logger(s). (Index (zero based) must be greater than or equal to zero and less than the size of the argument list.) (Index (zero based) must be greater than or equal to zero and less than the size of the argument list.) (Index (zero based) must be greater than or equal to zero and less than the size of the argument list.)
+ 2022-11-23 22:13:56,514  INFO PalladiumSmsService.PalSmsService.MoveNext [73] - MESSAGE: Application Started at 11/23/2022 19:13:56
+ 2022-11-23 22:13:58,453  INFO PalladiumSmsService.PalSmsService.MoveNext [97] - MESSAGE: An error occurred while writing to logger(s). (Index (zero based) must be greater than or equal to zero and less than the size of the argument list.) (Index (zero based) must be greater than or equal to zero and less than the size of the argument list.) (Index (zero based) must be greater than or equal to zero and less than the size of the argument list.)
+ 2022-11-23 22:13:58,457  INFO PalladiumSmsService.PalSmsService.MoveNext [73] - MESSAGE: Application Started at 11/23/2022 19:13:58
+ 2022-11-23 22:14:01,268  INFO PalladiumSmsService.PalSmsService.MoveNext [97] - MESSAGE: An error occurred while writing to logger(s). (Index (zero based) must be greater than or equal to zero and less than the size of the argument list.) (Index (zero based) must be greater than or equal to zero and less than the size of the argument list.) (Index (zero based) must be greater than or equal to zero and less than the size of the argument list.)
+ 2022-11-23 22:14:01,272  INFO PalladiumSmsService.PalSmsService.MoveNext [73] - MESSAGE: Application Started at 11/23/2022 19:14:01
+ 2022-11-23 22:16:54,123  INFO PalladiumSmsService.PalSmsService.MoveNext [73] - MESSAGE: Application Started at 11/23/2022 19:16:54
+ 2022-11-23 22:16:54,174  INFO PalladiumSmsService.PalSmsService.MoveNext [89] - MESSAGE: 0729566878 now
+ 2022-11-23 22:17:00,802  INFO Microsoft.Hosting.Lifetime.OnApplicationStarted [0] - MESSAGE: Application started. Press Ctrl+C to shut down.
+ 2022-11-23 22:17:00,805  INFO Microsoft.Hosting.Lifetime.OnApplicationStarted [0] - MESSAGE: Hosting environment: Development
+ 2022-11-23 22:17:00,807  INFO Microsoft.Hosting.Lifetime.OnApplicationStarted [0] - MESSAGE: Content root path: C:\Mustek\PalladiumSmsService\PalladiumSmsService
+ 2022-11-23 22:23:56,697  INFO PalladiumSmsService.PalSmsService.MoveNext [73] - MESSAGE: Application Started at 11/23/2022 19:23:56
+ 2022-11-23 22:23:56,746  INFO PalladiumSmsService.PalSmsService.MoveNext [89] - MESSAGE: 0729566878 now
+ 2022-11-23 22:24:14,603  INFO Microsoft.Hosting.Lifetime.OnApplicationStarted [0] - MESSAGE: Application started. Press Ctrl+C to shut down.
+ 2022-11-23 22:24:14,619  INFO Microsoft.Hosting.Lifetime.OnApplicationStarted [0] - MESSAGE: Hosting environment: Development
+ 2022-11-23 22:24:14,623  INFO Microsoft.Hosting.Lifetime.OnApplicationStarted [0] - MESSAGE: Content root path: C:\Mustek\PalladiumSmsService\PalladiumSmsService
+ 2022-11-23 22:25:15,520  INFO PalladiumSmsService.PalSmsService.MoveNext [98] - MESSAGE: Dear Ashburton Reinforcing, we have dispatched your order of 1407 under IN-000000002 to be delivered on 8 Mar 2019 00:00:00 bySTOP?*456*9*5#,recipient:254729566878,status:111,statusDescription:Message sent succesfully : response data for invoice
+ 2022-11-23 22:26:44,682  INFO PalladiumSmsService.PalSmsService.MoveNext [0] - MESSAGE: IN-000000002 : update successful
+ 

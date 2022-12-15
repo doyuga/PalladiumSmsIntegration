@@ -1,28 +1,28 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Work Softs\\PalladiumSmsService\\PalladiumSmsService\\PalladiumSmsService.csproj": {}
+    "C:\\Mustek\\PalladiumSmsService\\PalladiumSmsService\\PalladiumSmsService.csproj": {}
   },
   "projects": {
-    "C:\\Work Softs\\PalladiumSmsService\\PalladiumSmsService\\PalladiumSmsService.csproj": {
+    "C:\\Mustek\\PalladiumSmsService\\PalladiumSmsService\\PalladiumSmsService.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Work Softs\\PalladiumSmsService\\PalladiumSmsService\\PalladiumSmsService.csproj",
+        "projectUniqueName": "C:\\Mustek\\PalladiumSmsService\\PalladiumSmsService\\PalladiumSmsService.csproj",
         "projectName": "PalladiumSmsService",
-        "projectPath": "C:\\Work Softs\\PalladiumSmsService\\PalladiumSmsService\\PalladiumSmsService.csproj",
-        "packagesPath": "C:\\Users\\dan.oyuga\\.nuget\\packages\\",
-        "outputPath": "C:\\Work Softs\\PalladiumSmsService\\PalladiumSmsService\\obj\\publish\\win-x64\\",
+        "projectPath": "C:\\Mustek\\PalladiumSmsService\\PalladiumSmsService\\PalladiumSmsService.csproj",
+        "packagesPath": "C:\\Users\\Dan\\.nuget\\packages\\",
+        "outputPath": "C:\\Mustek\\PalladiumSmsService\\PalladiumSmsService\\obj\\publish\\win-x64\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
         ],
         "configFilePaths": [
-          "C:\\Users\\dan.oyuga\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\Dan\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
-          "net6.0"
+          "net7.0"
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
@@ -30,8 +30,8 @@
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
-          "net6.0": {
-            "targetAlias": "net6.0",
+          "net7.0": {
+            "targetAlias": "net7.0",
             "projectReferences": {}
           }
         },
@@ -42,16 +42,24 @@
         }
       },
       "frameworks": {
-        "net6.0": {
-          "targetAlias": "net6.0",
+        "net7.0": {
+          "targetAlias": "net7.0",
           "dependencies": {
             "Microsoft.Extensions.Hosting": {
               "target": "Package",
-              "version": "[6.0.1, )"
+              "version": "[7.0.0, )"
             },
             "Microsoft.Extensions.Hosting.WindowsServices": {
               "target": "Package",
-              "version": "[6.0.1, )"
+              "version": "[7.0.0, )"
+            },
+            "Microsoft.Extensions.Logging.Log4Net.AspNetCore": {
+              "target": "Package",
+              "version": "[6.1.0, )"
+            },
+            "System.Configuration.ConfigurationManager": {
+              "target": "Package",
+              "version": "[7.0.0, )"
             },
             "System.Data.SqlClient": {
               "target": "Package",
@@ -72,19 +80,19 @@
           "downloadDependencies": [
             {
               "name": "Microsoft.AspNetCore.App.Runtime.win-x64",
-              "version": "[6.0.9, 6.0.9]"
+              "version": "[7.0.0, 7.0.0]"
             },
             {
               "name": "Microsoft.NETCore.App.Crossgen2.win-x64",
-              "version": "[6.0.9, 6.0.9]"
+              "version": "[7.0.0, 7.0.0]"
             },
             {
               "name": "Microsoft.NETCore.App.Runtime.win-x64",
-              "version": "[6.0.9, 6.0.9]"
+              "version": "[7.0.0, 7.0.0]"
             },
             {
               "name": "Microsoft.WindowsDesktop.App.Runtime.win-x64",
-              "version": "[6.0.9, 6.0.9]"
+              "version": "[7.0.0, 7.0.0]"
             }
           ],
           "frameworkReferences": {
@@ -92,7 +100,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.401\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.100\\RuntimeIdentifierGraph.json"
         }
       },
       "runtimes": {

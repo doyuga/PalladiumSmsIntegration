@@ -1,0 +1,7 @@
+C:\palsms\app.config
+C:\palsms\appsettings.Development.json
+C:\palsms\appsettings.json
+C:\palsms\PalladiumSmsService.dll.config
+C:\palsms\PalladiumSmsService.pdb
+C:\palsms\sni.dll
+C:\palsms\PalladiumSmsService.exe

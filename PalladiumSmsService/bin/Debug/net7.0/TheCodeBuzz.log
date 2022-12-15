@@ -1,0 +1,7 @@
+2022-11-23 22:04:03,871  INFO PalladiumSmsService.PalSmsService.MoveNext [73] - MESSAGE: Application Started at 11/23/2022 19:04:03
+ 2022-11-23 22:04:06,453  INFO Microsoft.Hosting.Lifetime.OnApplicationStarted [0] - MESSAGE: Application started. Press Ctrl+C to shut down.
+ 2022-11-23 22:04:06,478  INFO Microsoft.Hosting.Lifetime.OnApplicationStarted [0] - MESSAGE: Hosting environment: Development
+ 2022-11-23 22:04:06,482  INFO Microsoft.Hosting.Lifetime.OnApplicationStarted [0] - MESSAGE: Content root path: C:\Mustek\PalladiumSmsService\PalladiumSmsService
+ 2022-11-23 22:04:07,133  INFO PalladiumSmsService.PalSmsService.MoveNext [97] - MESSAGE: An error occurred while writing to logger(s). (Index (zero based) must be greater than or equal to zero and less than the size of the argument list.) (Index (zero based) must be greater than or equal to zero and less than the size of the argument list.) (Index (zero based) must be greater than or equal to zero and less than the size of the argument list.)
+ 2022-11-23 22:04:07,163  INFO PalladiumSmsService.PalSmsService.MoveNext [73] - MESSAGE: Application Started at 11/23/2022 19:04:07
+ 
